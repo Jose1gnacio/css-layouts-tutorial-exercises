@@ -1,4 +1,24 @@
 /* your code here */
+h1 {
+	position: static;
+}
+header {
+	position: static;
+	margin: 1%;
+}
+nav {
+	float: left;
+	margin-right: 20px;
+	height: 95%;
+	width: 20%;
+	margin: 1%;
+}
+
+section {
+	float: right;
+	width: 76%;
+	margin: 1%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
